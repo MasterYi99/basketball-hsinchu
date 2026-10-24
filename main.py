@@ -4,7 +4,7 @@ import time
 st.set_page_config(page_title="籃球輪替與即時管理系統", layout="wide")
 
 # 1. 預設名單
-DEFAULT_ROSTER_TEXT = """Aaron SG
+DEFAULT_ROSTER_TEXT = """
 子揚 PG
 鈞麟 SG
 煒堯 SF
